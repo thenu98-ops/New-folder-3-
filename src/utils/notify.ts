@@ -1,7 +1,7 @@
 // Her answers are emailed to you via FormSubmit (free, no account or key needed).
 // IMPORTANT: the very first email sent goes to you as an "Activate form" email —
 // click Activate once, and every email after that arrives normally.
-export const EMAIL_TO = 'henurathisalkarunarathna@gmail.com';
+export const EMAIL_TO = 'thenurathisalkarunarathna@gmail.com';
 
 const STORAGE_KEY = 'faith-fairytale-log';
 
